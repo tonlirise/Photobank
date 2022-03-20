@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "787492462963",
+    "project_id": "photobank-807a6",
+    "storage_bucket": "photobank-807a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787492462963:android:19fcf0d4d7b34e5c2aa506",
+        "android_client_info": {
+          "package_name": "com.example.photobank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787492462963-vkmgkhi1b96bbma2bbl801b3viitq7rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.photobank",
+            "certificate_hash": "a4e7358dd1d5acb5b589a050d316ffed32c20ce2"
+          }
+        },
+        {
+          "client_id": "787492462963-10mnujpgqlb0k2bs4m81k5htra6snkkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWDrI3CrOdlYFpsS4KXKMLenW4b35lTyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787492462963-10mnujpgqlb0k2bs4m81k5htra6snkkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
